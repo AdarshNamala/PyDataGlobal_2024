@@ -3,7 +3,7 @@
 Welcome to the repository for the **PyData Global 2024** talk:  
 **"Scaling Outside the Warehouse Using DuckDB and Python"**
 
-This talk explores how DuckDB can process large-scale data efficiently outside traditional SQL and Spark-based warehouse systems, seamlessly integrating with Python pipelines.
+This talk explores how DuckDB can process large-scale data efficiently outside traditional warehouse systems, seamlessly integrating with Python pipelines.
 
 ## Repository Structure
 
